@@ -1,0 +1,12 @@
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\bin\Debug\net9.0\TheDynimationEngine.deps.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\bin\Debug\net9.0\TheDynimationEngine.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\bin\Debug\net9.0\TheDynimationEngine.pdb
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.csproj.AssemblyReference.cache
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.AssemblyInfoInputs.cache
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.AssemblyInfo.cs
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.csproj.CoreCompileInputs.cache
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\refint\TheDynimationEngine.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.pdb
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\ref\TheDynimationEngine.dll

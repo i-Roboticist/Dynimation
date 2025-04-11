@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDynimationEngine", "TheDynimationEngine\TheDynimationEngine.csproj", "{4E34E26E-B050-F08F-69DE-39A77F716D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E34E26E-B050-F08F-69DE-39A77F716D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E34E26E-B050-F08F-69DE-39A77F716D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E34E26E-B050-F08F-69DE-39A77F716D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E34E26E-B050-F08F-69DE-39A77F716D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F30185B-3AD2-47C7-A580-6E553CBD3579}
+	EndGlobalSection
+EndGlobal
