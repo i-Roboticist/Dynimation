@@ -10,3 +10,4 @@ C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationE
 C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\refint\TheDynimationEngine.dll
 C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.pdb
 C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\ref\TheDynimationEngine.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.sourcelink.json

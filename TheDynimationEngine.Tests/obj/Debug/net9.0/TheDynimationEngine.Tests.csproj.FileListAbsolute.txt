@@ -103,3 +103,4 @@ C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationE
 C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine.Tests\obj\Debug\net9.0\TheDynimationEngine.Tests.pdb
 C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine.Tests\obj\Debug\net9.0\TheDynimationEngine.Tests.genruntimeconfig.cache
 C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine.Tests\obj\Debug\net9.0\ref\TheDynimationEngine.Tests.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine.Tests\obj\Debug\net9.0\TheDynimationEngine.Tests.sourcelink.json
