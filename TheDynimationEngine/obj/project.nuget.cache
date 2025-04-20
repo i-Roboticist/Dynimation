@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1KHibLHcUxI=",
+  "dgSpecHash": "VOcTDGHChPc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\djdan\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\TheDynimationEngine\\TheDynimationEngine.csproj",
+  "projectFilePath": "C:\\Users\\jcgar\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\Dynimation\\TheDynimationEngine\\TheDynimationEngine.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\djdan\\.nuget\\packages\\skiasharp\\3.116.1\\skiasharp.3.116.1.nupkg.sha512",
-    "C:\\Users\\djdan\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.116.1\\skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
-    "C:\\Users\\djdan\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.116.1\\skiasharp.nativeassets.win32.3.116.1.nupkg.sha512"
+    "C:\\Users\\jcgar\\.nuget\\packages\\skiasharp\\3.116.1\\skiasharp.3.116.1.nupkg.sha512",
+    "C:\\Users\\jcgar\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.116.1\\skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
+    "C:\\Users\\jcgar\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.116.1\\skiasharp.nativeassets.win32.3.116.1.nupkg.sha512"
   ],
   "logs": []
 }

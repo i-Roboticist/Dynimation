@@ -11,3 +11,16 @@ C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationE
 C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.pdb
 C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\ref\TheDynimationEngine.dll
 C:\Users\djdan\Documents\Code\VSCode\CSharp\The Dynimation Engine\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.sourcelink.json
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\bin\Debug\net9.0\TheDynimationEngine.deps.json
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\bin\Debug\net9.0\TheDynimationEngine.dll
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\bin\Debug\net9.0\TheDynimationEngine.pdb
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.csproj.AssemblyReference.cache
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.AssemblyInfoInputs.cache
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.AssemblyInfo.cs
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.csproj.CoreCompileInputs.cache
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.sourcelink.json
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.dll
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\refint\TheDynimationEngine.dll
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\TheDynimationEngine.pdb
+C:\Users\jcgar\Documents\Code\VSCode\CSharp\The Dynimation Engine\Dynimation\TheDynimationEngine\obj\Debug\net9.0\ref\TheDynimationEngine.dll

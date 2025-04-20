@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djdan\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\TheDynimationEngine\\TheDynimationEngine.csproj": {}
+    "C:\\Users\\jcgar\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\Dynimation\\TheDynimationEngine\\TheDynimationEngine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djdan\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\TheDynimationEngine\\TheDynimationEngine.csproj": {
+    "C:\\Users\\jcgar\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\Dynimation\\TheDynimationEngine\\TheDynimationEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djdan\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\TheDynimationEngine\\TheDynimationEngine.csproj",
+        "projectUniqueName": "C:\\Users\\jcgar\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\Dynimation\\TheDynimationEngine\\TheDynimationEngine.csproj",
         "projectName": "TheDynimationEngine",
-        "projectPath": "C:\\Users\\djdan\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\TheDynimationEngine\\TheDynimationEngine.csproj",
-        "packagesPath": "C:\\Users\\djdan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djdan\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\TheDynimationEngine\\obj\\",
+        "projectPath": "C:\\Users\\jcgar\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\Dynimation\\TheDynimationEngine\\TheDynimationEngine.csproj",
+        "packagesPath": "C:\\Users\\jcgar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jcgar\\Documents\\Code\\VSCode\\CSharp\\The Dynimation Engine\\Dynimation\\TheDynimationEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\djdan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jcgar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
